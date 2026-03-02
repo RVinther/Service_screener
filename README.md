@@ -1,4 +1,4 @@
-# # Service_screener ![PowerShell](https://img.shields.io/badge/PowerShell-Script-blue)
+# Service_screener ![PowerShell](https://img.shields.io/badge/PowerShell-Script-blue)
 
 Et PowerShell-script, der overvåger og håndterer Windows-services.
 
